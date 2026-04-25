@@ -19,17 +19,21 @@ Currently, my research mainly centers on
 * **Multimodal large language model**: Vision-Language large model, Efficient fine-tuning, Model data leakage.
 * **Crowd behavior analysis**: Crowd counting and localization, abnormal behavior detection.
 * **Data-efficient learning**: Semi-supervised learning (SSL), Few-shot learning.
-* **Continual learning**: Continual unsupervised domain adaptation(CUDA), Test-time adaptation(TTA). 
+* **Continual learning**: Continual unsupervised domain adaptation(CUDA), Test-time adaptation(TTA).
 
+Google scholar: (https://scholar.google.com/citations?user=6Fv-BBoAAAAJ&hl=en)
 <h2 id='publications'>Selected Publications</h2>
 
-**X. Wang**, T. Yang and Q. Ruan et.al. &quot; Hybrid Perturbation Strategy for Semi-supervised Crowd Counting &quot;. *IEEE Transactions on Image Processing*(**TIP**), 2024. (CCF-A, SCI, IF=10.6) [[paper](https://ieeexplore.ieee.org/abstract/document/10430107)]
+**X. Wang**, T. Yang and Q. Ruan et.al. &quot; CUDA-CC: Continual Unsupervised Domain Adaptation for Crowd Counting. &quot;. *IEEE Transactions on Multimedia*, 2026. (CCF-A, Top) [[project]([https://sites.google.com/view/tg-pose/](https://ieeexplore.ieee.org/abstract/document/11488591))]
 
-Y. Zhan, **X. Wang**, T. Yang and Q. Ruan et.al. &quot; TG-Pose: Delving into Topology and Geometry for Category-level Object Pose Estimation. &quot;. *IEEE Transactions on Multimedia* (**TMM**), 2024. (CCF-B, SCI, IF=7.8) [[project](https://sites.google.com/view/tg-pose/)].
+**X. Wang**, T. Yang and Q. Ruan et.al &quot; 	
+Data Leakage Detection in Large Vision-Language Models via Multimodal Perturbation &quot;. *13th International Conference on Image and Graphics (ICIG)*, 2025. [[paper](https://link.springer.com/chapter/10.1007/978-981-95-3398-5_15)]
+
+**X. Wang**, T. Yang and Q. Ruan et.al. &quot; Hybrid Perturbation Strategy for Semi-supervised Crowd Counting &quot;. *IEEE Transactions on Image Processing*(**TIP**), 2024. (CCF-A, Top) [[paper](https://ieeexplore.ieee.org/abstract/document/10430107)]
+
+Y. Zhan, **X. Wang**, T. Yang and Q. Ruan et.al. &quot; TG-Pose: Delving into Topology and Geometry for Category-level Object Pose Estimation. &quot;. *IEEE Transactions on Multimedia* (**TMM**), 2024. (CCF-A, SCI, IF=7.8) [[project](https://sites.google.com/view/tg-pose/)].
 
 **X. Wang**, Y. Zhan, Y. Zhao, T. Yang and Q. Ruan. &quot; Semi-Supervised Crowd Counting With Spatial Temporal Consistency and Pseudo-Label Filter &quot;. *IEEE Transactions on Circuits and Systems for Video Technology* (**TCSVT**), 2023.(CCF-B, SCI, IF=8.4) [[paper](https://ieeexplore.ieee.org/abstract/document/10032602)]
-
-**X. Wang**, T. Yang and Q. Ruan et.al. &quot; DPCA: Density Prototype Contrast Adaptation for Continual Unsupervised Domain Adaptation Crowd Counting. &quot;. *IEEE Transactions on Multimedia*, 2024. 
 
 **X. Wang**, T. Yang and Q. Ruan et.al &quot; Multi-scale context aggregation network with attention-guided for crowd counting &quot;. *15th IEEE International Conference on Signal Processing*, 2020.(Best paper) [[paper](https://ieeexplore.ieee.org/abstract/document/9321067)] [[code](https://github.com/KingMV/MSCANet)]
 
